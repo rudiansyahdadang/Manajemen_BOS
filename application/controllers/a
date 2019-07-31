@@ -1,0 +1,59 @@
+PROGRAM HELLO
+
+1. Buat 3 buah variabel pointX,pointY,menu.
+2. Input PointX dan PointY.
+3. Tampilkan Text Seperti Berikut Kelayar
+
+*** MENU PROGRAM HELLO ***
+A. Tampilan Nilai PointX, PointY 
+B. Tambah 1 Nilai Untuk PointX
+C. Tambah 1 Nilai Untuk PointY 
+D. Kurang 1 Nilai Untuk PointX
+E. Kurang 1 Nilai Untuk PointY
+F. Tambah  (Sejumlah Nilai yang diinputkan oleh user) untuk PointX x
+G. Kurangi (Sejumlah Nilai yang diinputkan oleh user) untuk PointX x
+H. Tambah  (Sejumlah Nilai yang diinputkan oleh user) untuk PointY x
+I. Kurangi (Sejumlah Nilai yang diinputkan oleh user) untuk PointY x
+J. Hitung Jarak antara PointX dan PointY
+**************************
+Silakan Pilih Menu : (Diinput)
+
+4. Lakukan Proses sesuai dengan yang diinputkan oleh User.
+	Jika Pilih A maka Yang Tampil
+		Nilai dari PointX dan Point Y
+
+	Jika Pilih B maka yang Tampil
+		Misal Nilai PointX tadinya 6, maka 
+		yang ditampilan ke layar adalah PointX = 7.
+
+	Jika Pilih C maka yang Tampil
+		Misal Nilai PointY tadinya 1, maka 
+		yang ditampilan ke layar adalah PointY = 2.
+
+	Jika Pilih D maka yang Tampil
+		Misal Nilai PointX tadinya 6, maka 
+		yang ditampilan ke layar adalah PointX = 5.
+
+	Jika Pilih E maka yang Tampil
+		Misal Nilai PointY tadinya 1, maka 
+		yang ditampilan ke layar adalah PointY = 0.
+
+	Jika Pilih F maka yang Tampil
+		Misal Nilai PointX tadinya 1, dan User menginputkan 3 maka 
+		yang ditampilan ke layar adalah PointX = 4.
+
+	Jika Pilih G maka yang Tampil
+		Misal Nilai PointX tadinya 6, dan User menginputkan 4 maka 
+		yang ditampilan ke layar adalah PointX = 2.
+
+	Jika Pilih H maka yang Tampil
+		Misal Nilai PointY tadinya 1, dan User menginputkan 3 maka 
+		yang ditampilan ke layar adalah PointY = 4.
+
+	Jika Pilih I maka yang Tampil
+		Misal Nilai PointY tadinya 10, dan User menginputkan 4 maka 
+		yang ditampilan ke layar adalah PointY = 6.
+
+	Jika Pilih H maka yang Tampil
+		Jaraknya adalah 6 - 1 = 5. (Rumusnya PointX dikurangi PointY)
+			Jika Nilai PointX 
